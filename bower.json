@@ -1,0 +1,21 @@
+{
+  "name": "SITE",
+  "homepage": "https://github.com/pijrufmg/site-pijr",
+  "authors": [
+    "sandyjnascimento@gmail.com <sandyjnascimento@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
